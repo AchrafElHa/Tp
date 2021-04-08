@@ -1,0 +1,11 @@
+table,td,th{
+	border :solid;
+	border-collapse: collapse;
+	width :50% ;
+}
+body {
+	font-family :Papyrus ;
+}
+.footer {
+	text-align :center ;
+}
